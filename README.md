@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+A content-based movie recommendation system built in Python using collaborative filtering and cosine similarity. This system recommends movies similar to ones a user has liked, based on user ratings patterns from the MovieLens dataset.
+
 A content-based movie recommendation system built in Python using collaborative filtering and cosine similarity. This system recommends movies similar to ones a user has liked, based on user ratings patterns.
 
 ## Features
